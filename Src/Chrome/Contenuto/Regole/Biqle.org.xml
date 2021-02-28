@@ -1,0 +1,6 @@
+<ruleset name="biqle.org">
+	<target host="biqle.org"/>
+	<target host="www.biqle.org"/>
+
+	<rule from="^http:" to="https:"/>
+</ruleset>
